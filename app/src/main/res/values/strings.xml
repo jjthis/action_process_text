@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACTION_PROCESS_TEXT</string>
+    <string name="title_activity_process_text">ProcessTextActivity</string>
+    <string name="title_activity_translation">Translation</string>
+    <string name="title_activity_copy">copy</string>
+    <string name="title_activity_morse_code">morseCode</string>
+</resources>
